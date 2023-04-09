@@ -28,17 +28,17 @@ background-color: rgb(255, 4, 4);
 }
 .izquierda{
     width: 20%;
-    height: 1280px;
+    height: 1400px;
     background-color: rgb(10, 206, 255);
 }
 .centro{
     width: 60%;
-    height: 1280px;
+    height: 1400px;
     background-color: rgb(201, 0, 0);
 }
 .derecha{
     width: 20%;
-    height: 1280px;
+    height: 1400px;
     background-color: yellowgreen;
 }
 .tecnologia{
