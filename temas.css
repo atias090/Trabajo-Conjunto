@@ -44,30 +44,30 @@ background-color: rgb(255, 4, 4);
 .tecnologia{
 width: 120px;
 height: 78px;
-background-color: lime;
+background-color: lightblue;
 margin: 2px;
 }
 .ingles{
     width: 120px;
     height: 78px;
-    background-color: lime;
+    background-color: lightgreen;
     margin: 2px;
 }
 .matematicas{
     width: 120px;
     height: 78px;
-    background-color: lime;
+    background-color: lightpink;
     margin: 2px;
     }
 .biologia{
     width: 120px;
     height: 78px;
-    background-color: lime;
+    background-color: lightyellow;
     margin: 2px;
 }
 .sociales{
     width: 120px;
     height: 78px;
-    background-color: lime;
+    background-color: mediumspringgreen;
     margin: 2px;
 }
