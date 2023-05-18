@@ -1,0 +1,64 @@
+*{
+
+padding: 0px;
+
+margin: 0px;
+
+}
+
+
+
+
+.body{
+
+background-image: url("fondo.jpg");
+
+background-repeat: no-repeat;
+
+}
+
+
+
+.img{
+
+position: relative;
+
+ 
+
+width: 190px;
+
+height: 190px;
+
+border-radius: 10px;
+
+background-repeat: no-repeat;
+
+ 
+
+left: 180px;
+
+background-image: url("medellin.jpeg");
+
+}
+
+.contenedor{
+
+ 
+
+height: 230px;
+
+ 
+
+}
+
+.texto{
+
+font-size: 40px;
+
+text-align: justify;
+
+color: brown;
+
+ 
+
+}
