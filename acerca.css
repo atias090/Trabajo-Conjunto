@@ -1,0 +1,66 @@
+*{
+
+    padding: 0px;
+    
+    margin: 0px;
+    
+    }
+    
+    
+    
+    
+    body{
+    
+    background-image: url("fondo.jpg");
+    
+    background-repeat: no-repeat;
+    
+    }
+    
+    
+    
+    .img{
+    
+    position: relative;
+    
+     top: 254px;
+    
+    width: 190px;
+    
+    height: 190px;
+    
+    border-radius: 10px;
+    
+    background-repeat: no-repeat;
+    
+     
+    
+    left: 17px;
+    
+    background-image: url("estrella.jpg");
+    
+    }
+    
+    .contenedor{
+    
+     
+    
+    height: 230px;
+    
+     
+    
+    }
+    
+    .texto{
+    
+    font-size: 30px;
+    
+    text-align: justify;
+    
+    color: white;
+    
+    top: 200px;
+    
+    
+    
+    }
