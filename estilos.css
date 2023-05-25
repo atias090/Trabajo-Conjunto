@@ -11,7 +11,7 @@ margin: 0px;
 
 body{
 
-background-image: url("fondo.jpg.png");
+background-image: url("fondo.jpg");
 
 background-repeat: no-repeat;
 
@@ -23,7 +23,7 @@ background-repeat: no-repeat;
 
 position: relative;
 
- 
+ top: 254px;
 
 width: 190px;
 
@@ -35,9 +35,9 @@ background-repeat: no-repeat;
 
  
 
-left: 180px;
+left: 17px;
 
-background-image: url("medellin.jpeg.jpeg");
+background-image: url("estrella.jpg");
 
 }
 
@@ -55,10 +55,12 @@ height: 230px;
 
 font-size: 30px;
 
-text-align: justify;
+text-align: center;
 
 color: brown;
 
- 
+top: 200px;
+
+
 
 }
