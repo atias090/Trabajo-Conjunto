@@ -7,11 +7,11 @@
     }
     
     
-    
+     
     
     body{
     
-    background-image: url("fondo.jpg");
+    background-image: url("forest-g20a2e78bb_1280.jpg");
     
     background-repeat: no-repeat;
     
@@ -35,7 +35,7 @@
     
      
     
-    left: 17px;
+    left: -250px;
     
     background-image: url("estrella.jpg");
     
@@ -57,7 +57,7 @@
     
     text-align: justify;
     
-    color: white;
+    color: black;
     
     top: 200px;
     

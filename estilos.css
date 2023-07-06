@@ -37,7 +37,7 @@ background-repeat: no-repeat;
 
 left: 17px;
 
-background-image: url("estrella.jpg");
+background-image: url("");
 
 }
 
@@ -68,13 +68,13 @@ top: 200px;
 
 .contenido{
 
-    height: 280px;
+    height: 500px;
     
-    width: 100%;
+    width: 70%;
     
     position: absolute;
     
-    top: 410px;
+    top: 400px;
     
      
     
@@ -88,7 +88,7 @@ top: 200px;
     
     background-repeat: no-repeat;
     
-    float:left;
+    float:right;
     
     height: 200px;
     
@@ -98,7 +98,7 @@ top: 200px;
     
     margin-right:5px;
     
-    background-image: url("medellin.jpeg");
+    background-image: url("estrella.jpg");
     
     }
     
@@ -108,7 +108,7 @@ top: 200px;
     
     text-align: justify;
     
-    color: azure;
+    color: darkblue;
     
     font-size: 20px;
     
