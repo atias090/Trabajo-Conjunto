@@ -11,12 +11,17 @@ margin: 0px;
 
 body{
 
-background-image: url("forest-g20a2e78bb_1280.jpg");
+background-image: url("");
 
 background-repeat: no-repeat;
 
 }
+.fondotecnologia{
 
+    background-image: url("fondo.jpg");
+
+    background-repeat: no-repeat;
+}
 
 
 .img{
@@ -61,8 +66,6 @@ color: black;
 
 top: 200px;
 
-
-
 }
 
 
@@ -79,9 +82,6 @@ top: 200px;
      
     
     }
-    
-     
-    
     .imagentecno{
     
      
