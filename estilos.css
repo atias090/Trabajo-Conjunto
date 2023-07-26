@@ -11,16 +11,16 @@ margin: 0px;
 
 body{
 
-background-image: url("forest-g20a2e78bb_1280.jpg");
+background-image: url("milky-way-g60506a8b9_1280.jpg");
 
-background-repeat: no-repeat;
+background-repeat: repeat;
 
 }
 .fondotecnologia{
 
     background-image: url("fondo.jpg");
 
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 }
 
 
@@ -62,7 +62,7 @@ font-size: 30px;
 
 text-align: justify;
 
-color: black;
+color: orange;
 
 top: 200px;
 
@@ -115,3 +115,23 @@ top: 200px;
     
     
     }
+
+    .imagensoc{
+    
+     
+    
+        background-repeat: no-repeat;
+        
+        float: left;
+        
+        height: 700px;
+        
+        width: 700px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("condicionhumana.drawio.png");
+        
+        }
