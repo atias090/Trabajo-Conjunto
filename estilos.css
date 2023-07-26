@@ -23,6 +23,12 @@ background-repeat: repeat;
     background-repeat: repeat;
 }
 
+.fondoingles{
+
+    background-image: url("autumn-g055179c8a_1280.jpg");
+
+    background-repeat: repeat;
+}
 
 .img{
 
@@ -135,3 +141,51 @@ top: 200px;
         background-image: url("condicionhumana.drawio.png");
         
         }
+
+        .textosoc{
+    
+            text-align: justify;
+            
+            color: wheat;
+            
+            font-size: 20px;
+            
+            
+            
+            }
+
+
+        .imagening{
+    
+     
+    
+            background-repeat: no-repeat;
+            
+            float:right;
+            
+            height: 200px;
+            
+            width: 260px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("");
+            
+            }
+            
+            
+            
+            .textoing{
+            
+            text-align: justify;
+            
+            color: black;
+            
+            font-size: 20px;
+            
+            
+            
+            }
+        
