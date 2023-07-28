@@ -18,7 +18,7 @@ background-repeat: repeat;
 }
 .fondotecnologia{
 
-    background-image: url("fondo.jpg");
+    background-image: url("fondotecno.jpg");
 
     background-repeat: repeat;
 }
@@ -32,6 +32,20 @@ background-repeat: repeat;
 .fondomate{
 
     background-image: url("fondo.jpg.png");
+
+    background-repeat: repeat;
+}
+
+.fondobio{
+
+    background-image: url("fondobio.jpg");
+
+    background-repeat: repeat;
+}
+
+.fondosoc{
+
+    background-image: url("fondosoc.jpg");
 
     background-repeat: repeat;
 }
@@ -110,23 +124,143 @@ top: 200px;
     
     margin-right:5px;
     
-    background-image: url("estrella.jpg");
+    background-image: url("bombilla.gif");
     
     }
+
+    .imagentecno2{
     
+     
     
+        background-repeat: no-repeat;
+        
+        float:left;
+        
+        height: 200px;
+        
+        width: 260px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("bateria.jpg");
+        
+        }
+
+        .imagentecno3{
+    
+     
+    
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 200px;
+            
+            width: 260px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("suiche.jpg");
+            
+            }
+
+            .imagentecno4{
+    
+     
+    
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 200px;
+                
+                width: 260px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                
+                background-image: url("resistencia.jpg");
+                
+                }
+
+    
+    .textimg1tec{
+    
+        text-align: justify;
+        
+        color: black;
+        
+        font-size: 20px;
+        
+        
+        
+        }
+
+        .textimg2tec{
+    
+            text-align: justify;
+            
+            color: rgb(255, 0, 0);
+            
+            font-size: 20px;
+            
+            
+            
+            }
+            .textimg3tec{
+    
+                text-align: justify;
+                
+                color: rgb(255, 0, 0);
+                
+                font-size: 20px;
+                
+                
+                
+                }
+                .textimg4tec{
+    
+                    text-align: justify;
+                    
+                    color: blue;
+                    
+                    font-size: 20px;
+                    
+                    
+                    
+                    }
+
     
     .textotecno{
     
     text-align: justify;
     
-    color: wheat;
+    color: black;
     
     font-size: 20px;
     
     
     
     }
+
+    .textofinaltecno{
+    
+        text-align: justify;
+        
+        color: black;
+        
+        font-size: 20px;
+        
+        
+        
+        }
+
+
 
     .imagensoc{
     
@@ -147,18 +281,50 @@ top: 200px;
         background-image: url("condicionhumana.drawio.png");
         
         }
+        .imagensoc2{
+    
+     
+    
+            background-repeat: no-repeat;
+            
+            float: left;
+            
+            height: 700px;
+            
+            width: 700px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("Independencia.jpg");
+            
+            }
 
         .textosoc{
     
-            text-align: justify;
+            text-align: center;
             
-            color: wheat;
+            color: black;
             
-            font-size: 20px;
+            font-size: 25px;
             
             
             
             }
+
+            .textovideosoc{
+    
+                text-align: center;
+                
+                color: black;
+                
+                font-size: 25px;
+                
+                
+                
+                }
+
 
 
         .imagening{
@@ -228,4 +394,59 @@ top: 200px;
                 
                 
                 }
-        
+                .imagenbio{
+    
+     
+    
+                    background-repeat: no-repeat;
+                    
+                    float:right;
+                    
+                    height: 400px;
+                    
+                    width: 260px;
+                    
+                    margin-left: 5px;
+                    
+                    margin-right:5px;
+                    
+                    background-image: url("hemofilia1.jpg");
+                    
+                    }
+                    .imagenbio2{
+    
+                        
+    
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 500px;
+                        
+                        width: 260px;
+                        
+                        margin-left: 5px;
+                        
+                        margin-right:5px;
+                        
+                        background-image: url("Enfermedad.webp");
+                        
+                        }
+                    
+                    
+                    
+                    .textobio{
+                    
+                    text-align: justify;
+                    
+                    color: red;
+                    
+                    font-size: 20px;
+                    
+                    
+                    
+                    }
+
+
+
+                    
