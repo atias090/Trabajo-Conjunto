@@ -29,6 +29,12 @@ background-repeat: repeat;
 
     background-repeat: repeat;
 }
+.fondomate{
+
+    background-image: url("fondo.jpg.png");
+
+    background-repeat: repeat;
+}
 
 .img{
 
@@ -188,4 +194,38 @@ top: 200px;
             
             
             }
+
+            .imagenmate{
+    
+     
+    
+                background-repeat: no-repeat;
+                
+                float:right;
+                
+                height: 200px;
+                
+                width: 260px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                
+                background-image: url("");
+                
+                }
+                
+                
+                
+                .textomate{
+                
+                text-align: justify;
+                
+                color: black;
+                
+                font-size: 20px;
+                
+                
+                
+                }
         
