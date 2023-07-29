@@ -1,0 +1,65 @@
+*{
+
+    padding: 0px;
+    
+    margin: 0px;
+    
+    }
+    
+    ul, ol{
+    
+    list-style: none;
+    
+    }
+    
+    .botones li a{
+    
+    background-color: springgreen;
+    
+    color: rgb(0, 0, 0);
+    
+    text-decoration: none;
+    
+    padding: 10px 10px;
+    
+    display: block;
+    
+    }
+    
+    .menu{
+    
+    margin: auto;
+    
+    width: 800px;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    }
+    
+    .botones > li{
+    
+    float: left ;
+    
+    }
+    
+    .menu li:hover > ul{
+    
+    display: block;
+    
+    }
+    
+    .botones li a:hover {
+    
+    background-color: rgb(235, 238, 238);
+    
+    }
+    
+    .menu li ul{
+    
+    position: absolute;
+    
+    min-width: 140px;
+    
+    display: none;
+    
+    }
