@@ -23,6 +23,13 @@ background-repeat: repeat;
     background-repeat: repeat;
 }
 
+.fondotecnologia2{
+
+    background-image: url("fondotecno2.webp");
+
+    background-repeat: repeat;
+}
+
 .fondoingles{
 
     background-image: url("autumn-g055179c8a_1280.jpg");
@@ -46,6 +53,13 @@ background-repeat: repeat;
 .fondosoc{
 
     background-image: url("fondosoc.jpg");
+
+    background-repeat: repeat;
+}
+
+.fondosoc2{
+    
+    background-image: url("fondosoc2.jpg");
 
     background-repeat: repeat;
 }
@@ -299,6 +313,78 @@ top: 200px;
             
             background-image: url("Independencia.jpg");
             
+            }
+
+.contenidop3{
+
+    height: 500px;
+    
+    width: 70%;
+    
+    position: absolute;
+    
+    top: 400px;
+    
+     
+    
+}
+
+
+.imagensocp3{
+                    
+     
+    
+    background-repeat: no-repeat;
+    
+    float: left;
+    
+    height: 1000px;
+    
+    width: 10000px;
+    
+    margin-left: 5px;
+    
+    margin-right:5px;
+    
+    background-image: url("1.png");
+    }
+
+    .imagensoc2p3{
+            
+
+
+        background-repeat: no-repeat;
+        
+        float: left;
+        
+        height: 1000px;
+        
+        width: 1000px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("2.png");
+        }
+
+        .imagensoc3p3{
+            
+
+
+            background-repeat: no-repeat;
+            
+            float: left;
+            
+            height: 1000px;
+            
+            width: 1000px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("3.png");
             }
 
         .textosoc{
