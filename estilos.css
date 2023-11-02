@@ -36,6 +36,14 @@ background-repeat: repeat;
 
     background-repeat: repeat;
 }
+
+.fondoinglesp3{
+
+    background-image: url("fondo-página-inglés-p3.jfif");
+
+    background-repeat: repeat;
+}
+
 .fondomate{
 
     background-image: url("fondo.jpg.png");
@@ -466,6 +474,18 @@ top: 200px;
             
             
             }
+
+            .textoinglesp3{
+            
+                text-align: justify;
+                
+                color: white;
+                
+                font-size: 20px;
+                
+                
+                
+                }
 
             .imagenmate{
     
