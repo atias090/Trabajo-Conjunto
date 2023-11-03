@@ -1,169 +1,149 @@
 *{
 
-padding: 0px;
-
-margin: 0px;
-
-}
-
-
- 
-
-body{
-
-background-image: url("milky-way-g60506a8b9_1280.jpg");
-
-background-repeat: repeat;
-
-}
-.fondotecnologia{
-
-    background-image: url("fondotecno.jpg");
-
-    background-repeat: repeat;
-}
-
-.fondotecnologia2{
-
-    background-image: url("fondo\ de\ tecno\ p3.jfif");
-
-    background-repeat: repeat;
-}
-
-.fondoingles{
-
-    background-image: url("autumn-g055179c8a_1280.jpg");
-
-    background-repeat: repeat;
-}
-
-.fondoinglesp3{
-
-    background-image: url("fondo-página-inglés-p3.jfif");
-
-    background-repeat: repeat;
-}
-
-.fondomate{
-
-    background-image: url("fondo.jpg.png");
-
-    background-repeat: repeat;
-}
-
-.fondobio{
-
-    background-image: url("fondobio.jpg");
-
-    background-repeat: repeat;
-}
-
-.fondobiop3{
-
-    background-image: url("fondo-de-biologia-p3.jfif");
-
-    background-repeat: repeat;
-}
-
-.fondosoc{
-
-    background-image: url("fondosoc.jpg");
-
-    background-repeat: repeat;
-}
-
-.fondosoc2{
+    padding: 0px;
     
-    background-image: url("fondosoc2.jpg");
-
-    background-repeat: repeat;
-}
-
-.img{
-
-position: relative;
-
- top: 254px;
-
-width: 190px;
-
-height: 190px;
-
-border-radius: 10px;
-
-background-repeat: no-repeat;
-
- 
-
-left: 17px;
-
-background-image: url("");
-
-}
-
-.contenedor{
-
- 
-
-height: 230px;
-
- 
-
-}
-
-.texto{
-
-font-size: 30px;
-
-text-align: justify;
-
-color: orange;
-
-top: 200px;
-
-}
-
-
-.contenido{
-
-    height: 500px;
-    
-    width: 70%;
-    
-    position: absolute;
-    
-    top: 400px;
-    
-     
+    margin: 0px;
     
     }
-    .imagentecno{
+    
     
      
+    
+    body{
+    
+    background-image: url("milky-way-g60506a8b9_1280.jpg");
+    
+    background-repeat: repeat;
+    
+    }
+    .fondotecnologia{
+    
+        background-image: url("fondotecno.jpg");
+    
+        background-repeat: repeat;
+    }
+    
+    .fondotecnologia2{
+    
+        background-image: url("fondo\ de\ tecno\ p3.jfif");
+    
+        background-repeat: repeat;
+    }
+    
+    .fondoingles{
+    
+        background-image: url("autumn-g055179c8a_1280.jpg");
+    
+        background-repeat: repeat;
+    }
+    
+    .fondoinglesp3{
+    
+        background-image: url("fondo-página-inglés-p3.jfif");
+    
+        background-repeat: repeat;
+    }
+    
+    .fondomate{
+    
+        background-image: url("fondo.jpg.png");
+    
+        background-repeat: repeat;
+    }
+    
+    .fondobio{
+    
+        background-image: url("fondobio.jpg");
+    
+        background-repeat: repeat;
+    }
+    
+    .fondobiop3{
+    
+        background-image: url("fondo-de-biologia-p3.jfif");
+    
+        background-repeat: repeat;
+    }
+    
+    .fondosoc{
+    
+        background-image: url("fondosoc.jpg");
+    
+        background-repeat: repeat;
+    }
+    
+    .fondosoc2{
+        
+        background-image: url("fondosoc2.jpg");
+    
+        background-repeat: repeat;
+    }
+    
+    .img{
+    
+    position: relative;
+    
+     top: 254px;
+    
+    width: 190px;
+    
+    height: 190px;
+    
+    border-radius: 10px;
     
     background-repeat: no-repeat;
     
-    float:right;
+     
     
-    height: 200px;
+    left: 17px;
     
-    width: 260px;
-    
-    margin-left: 5px;
-    
-    margin-right:5px;
-    
-    background-image: url("bombilla.gif");
+    background-image: url("");
     
     }
-
-    .imagentecno2{
+    
+    .contenedor{
     
      
     
+    height: 230px;
+    
+     
+    
+    }
+    
+    .texto{
+    
+    font-size: 30px;
+    
+    text-align: justify;
+    
+    color: orange;
+    
+    top: 200px;
+    
+    }
+    
+    
+    .contenido{
+    
+        height: 500px;
+        
+        width: 70%;
+        
+        position: absolute;
+        
+        top: 400px;
+        
+         
+        
+        }
+        .imagentecno{
+        
+         
+        
         background-repeat: no-repeat;
         
-        float:left;
+        float:right;
         
         height: 200px;
         
@@ -173,14 +153,14 @@ top: 200px;
         
         margin-right:5px;
         
-        background-image: url("bateria.jpg");
+        background-image: url("bombilla.gif");
         
         }
-
-        .imagentecno3{
     
-     
-    
+        .imagentecno2{
+        
+         
+        
             background-repeat: no-repeat;
             
             float:left;
@@ -193,14 +173,14 @@ top: 200px;
             
             margin-right:5px;
             
-            background-image: url("suiche.jpg");
+            background-image: url("bateria.jpg");
             
             }
-
-            .imagentecno4{
     
-     
-    
+            .imagentecno3{
+        
+         
+        
                 background-repeat: no-repeat;
                 
                 float:left;
@@ -213,36 +193,45 @@ top: 200px;
                 
                 margin-right:5px;
                 
-                background-image: url("resistencia.jpg");
+                background-image: url("suiche.jpg");
                 
                 }
-
     
-    .textimg1tec{
+                .imagentecno4{
+        
+         
+        
+                    background-repeat: no-repeat;
+                    
+                    float:left;
+                    
+                    height: 200px;
+                    
+                    width: 260px;
+                    
+                    margin-left: 5px;
+                    
+                    margin-right:5px;
+                    
+                    background-image: url("resistencia.jpg");
+                    
+                    }
     
-        text-align: justify;
         
-        color: black;
+        .textimg1tec{
         
-        font-size: 20px;
-        
-        
-        
-        }
-
-        .textimg2tec{
-    
             text-align: justify;
             
-            color: rgb(255, 0, 0);
+            color: black;
             
             font-size: 20px;
             
             
             
             }
-            .textimg3tec{
     
+            .textimg2tec{
+        
                 text-align: justify;
                 
                 color: rgb(255, 0, 0);
@@ -252,33 +241,32 @@ top: 200px;
                 
                 
                 }
-                .textimg4tec{
-    
+                .textimg3tec{
+        
                     text-align: justify;
                     
-                    color: blue;
+                    color: rgb(255, 0, 0);
                     
                     font-size: 20px;
                     
                     
                     
                     }
-
+                    .textimg4tec{
+        
+                        text-align: justify;
+                        
+                        color: blue;
+                        
+                        font-size: 20px;
+                        
+                        
+                        
+                        }
     
-    .textotecno{
-    
-    text-align: justify;
-    
-    color: black;
-    
-    font-size: 20px;
-    
-    
-    
-    }
-
-    .textofinaltecno{
-    
+        
+        .textotecno{
+        
         text-align: justify;
         
         color: black;
@@ -288,32 +276,25 @@ top: 200px;
         
         
         }
-
-
-
-    .imagensoc{
     
-     
+        .textofinaltecno{
+        
+            text-align: justify;
+            
+            color: black;
+            
+            font-size: 20px;
+            
+            
+            
+            }
     
-        background-repeat: no-repeat;
-        
-        float: left;
-        
-        height: 700px;
-        
-        width: 700px;
-        
-        margin-left: 5px;
-        
-        margin-right:5px;
-        
-        background-image: url("condicionhumana.drawio.png");
-        
-        }
-        .imagensoc2{
     
-     
     
+        .imagensoc{
+        
+         
+        
             background-repeat: no-repeat;
             
             float: left;
@@ -326,109 +307,90 @@ top: 200px;
             
             margin-right:5px;
             
-            background-image: url("Independencia.jpg");
+            background-image: url("condicionhumana.drawio.png");
             
             }
-
-.contenidop3{
-
-    height: 500px;
-    
-    width: 70%;
-    
-    position: absolute;
-    
-    top: 400px;
-    
-     
-    
-}
-
-
-.imagensocp3{
-                    
-     
-    
-    background-repeat: no-repeat;
-    
-    float: left;
-    
-    height: 1000px;
-    
-    width: 10000px;
-    
-    margin-left: 5px;
-    
-    margin-right:5px;
-    
-    background-image: url("1.png");
-    }
-
-    .imagensoc2p3{
-            
-
-
-        background-repeat: no-repeat;
+            .imagensoc2{
         
-        float: left;
+         
         
-        height: 1000px;
+                background-repeat: no-repeat;
+                
+                float: left;
+                
+                height: 700px;
+                
+                width: 700px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                
+                background-image: url("Independencia.jpg");
+                
+                }
+    
+    
+    .imagensocp3{
         
-        width: 1000px;
+         
         
-        margin-left: 5px;
-        
-        margin-right:5px;
-        
-        background-image: url("2.png");
-        }
-
-        .imagensoc3p3{
-            
-
-
             background-repeat: no-repeat;
             
             float: left;
             
-            height: 1000px;
+            height: 1100px;
             
-            width: 1000px;
+            width: 2000px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("1.png");
+            
+        }
+    
+        .imagensoc2p3{
+        
+         
+        
+            background-repeat: no-repeat;
+            
+            float: left;
+            
+            height: 1100px;
+            
+            width: 2000px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("2.png");
+            }
+    
+            .imagensoc3p3{
+        
+         
+        
+            background-repeat: no-repeat;
+            
+            float: left;
+            
+            height: 1100px;
+            
+            width: 2000px;
             
             margin-left: 5px;
             
             margin-right:5px;
             
             background-image: url("3.png");
-            }
-
-        .textosoc{
-    
-            text-align: center;
-            
-            color: black;
-            
-            font-size: 25px;
-            
-            
-            
-            }
-
-
-            .videosoc{
-    
-                text-align: center;
-                
-                color: red;
-                
-                font-size: 35px;
-                
-                
-                
                 }
-
-            .textovideosoc{
     
+            .textosoc{
+        
                 text-align: center;
                 
                 color: black;
@@ -438,59 +400,38 @@ top: 200px;
                 
                 
                 }
-
-
-
-        .imagening{
     
-     
     
-            background-repeat: no-repeat;
-            
-            float:right;
-            
-            height: 200px;
-            
-            width: 260px;
-            
-            margin-left: 5px;
-            
-            margin-right:5px;
-            
-            background-image: url("");
-            
-            }
-            
-            
-            
-            .textoing{
-            
-            text-align: justify;
-            
-            color: black;
-            
-            font-size: 20px;
-            
-            
-            
-            }
-
-            .textoinglesp3{
-            
-                text-align: justify;
-                
-                color: white;
-                
-                font-size: 20px;
-                
-                
-                
-                }
-
-            .imagenmate{
+                .videosoc{
+        
+                    text-align: center;
+                    
+                    color: red;
+                    
+                    font-size: 35px;
+                    
+                    
+                    
+                    }
     
-     
+                .textovideosoc{
+        
+                    text-align: center;
+                    
+                    color: black;
+                    
+                    font-size: 25px;
+                    
+                    
+                    
+                    }
     
+    
+    
+            .imagening{
+        
+         
+        
                 background-repeat: no-repeat;
                 
                 float:right;
@@ -509,7 +450,7 @@ top: 200px;
                 
                 
                 
-                .textomate{
+                .textoing{
                 
                 text-align: justify;
                 
@@ -520,15 +461,28 @@ top: 200px;
                 
                 
                 }
-                .imagenbio{
     
-     
+                .textoinglesp3{
+                
+                    text-align: justify;
+                    
+                    color: white;
+                    
+                    font-size: 20px;
+                    
+                    
+                    
+                    }
     
+                .imagenmate{
+        
+         
+        
                     background-repeat: no-repeat;
                     
                     float:right;
                     
-                    height: 400px;
+                    height: 200px;
                     
                     width: 260px;
                     
@@ -536,45 +490,14 @@ top: 200px;
                     
                     margin-right:5px;
                     
-                    background-image: url("hemofilia1.jpg");
+                    background-image: url("");
                     
                     }
-                    .imagenbio2{
-    
-                        
-    
-                        background-repeat: no-repeat;
-                        
-                        float:left;
-                        
-                        height: 500px;
-                        
-                        width: 260px;
-                        
-                        margin-left: 5px;
-                        
-                        margin-right:5px;
-                        
-                        background-image: url("Enfermedad.webp");
-                        
-                        }
                     
                     
                     
-                    .textobio{
+                    .textomate{
                     
-                    text-align: justify;
-                    
-                    color: red;
-                    
-                    font-size: 20px;
-                    
-                    
-                    
-                    }
-
-                    .textobiop3{
-                                            
                     text-align: justify;
                     
                     color: black;
@@ -584,15 +507,15 @@ top: 200px;
                     
                     
                     }
-                    .imagenbiop3{
-    
-                        
-    
+                    .imagenbio{
+        
+         
+        
                         background-repeat: no-repeat;
                         
-                        float:left;
+                        float:right;
                         
-                        height: 500px;
+                        height: 400px;
                         
                         width: 260px;
                         
@@ -600,9 +523,73 @@ top: 200px;
                         
                         margin-right:5px;
                         
-                        background-image: url("cortisol.webp");
+                        background-image: url("hemofilia1.jpg");
                         
                         }
-
-
-                    
+                        .imagenbio2{
+        
+                            
+        
+                            background-repeat: no-repeat;
+                            
+                            float:left;
+                            
+                            height: 500px;
+                            
+                            width: 260px;
+                            
+                            margin-left: 5px;
+                            
+                            margin-right:5px;
+                            
+                            background-image: url("Enfermedad.webp");
+                            
+                            }
+                        
+                        
+                        
+                        .textobio{
+                        
+                        text-align: justify;
+                        
+                        color: red;
+                        
+                        font-size: 20px;
+                        
+                        
+                        
+                        }
+    
+                        .textobiop3{
+                                                
+                        text-align: justify;
+                        
+                        color: black;
+                        
+                        font-size: 20px;
+                        
+                        
+                        
+                        }
+                        .imagenbiop3{
+        
+                            
+        
+                            background-repeat: no-repeat;
+                            
+                            float:left;
+                            
+                            height: 500px;
+                            
+                            width: 260px;
+                            
+                            margin-left: 5px;
+                            
+                            margin-right:5px;
+                            
+                            background-image: url("cortisol.webp");
+                            
+                            }
+    
+    
+                                
